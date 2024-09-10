@@ -1,5 +1,4 @@
 # 💫 About Me:
-I'm currently working on nexjsCMS a CMS built with nextjs where people can built their own themes and download or buy public themes to use in their own website<br>
 
 
 ## 🌐 Socials:
